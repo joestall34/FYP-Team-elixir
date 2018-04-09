@@ -28,7 +28,7 @@
 
 ## For this project we must study following topics rigorously.
 
-## Click here you want to watch that awesome videos explaining all hard stuff every clearly:point_right:[link](https://www.youtube.com/user/JagvinderThind/playlists)
+## Click here you want to watch that awesome videos explaining all hard stuff every clearly:point_right:[link](https://www.youtube.com/user/JagvinderThind/playlists?sort=dd&shelf_id=2&view=50)
 
 ```rust
 fn main(){
