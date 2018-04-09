@@ -1,3 +1,4 @@
+
 ### Reference material that will help to write better Final year report :100:
 
 * [Learn how cite according to `IEEE` format. ](http://www.citethisforme.com/guides/ieee/how-to-cite-a-website)
@@ -21,5 +22,7 @@
 <!-- ![](https://img.youtube.com/vi/zn9MCqgs9TQ/0.jpg)  -->
 
 <!-- <img src="" width="250"> -->
-
+   ![](https://ibb.co/n51BsH)
+## For this project we study following topics rigorously.
+## [Follow this link to watch videos on particluar above topic](https://www.youtube.com/user/JagvinderThind/playlists)
 &copy; Team Elixir :smiley:
