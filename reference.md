@@ -1,4 +1,3 @@
-
 ### Reference material that will help to write better Final year report :100:
 
 * [Learn how cite according to `IEEE` format. ](http://www.citethisforme.com/guides/ieee/how-to-cite-a-website)
@@ -24,8 +23,17 @@
 <!-- <img src="" width="250"> 
 <a href="https://ibb.co/n51BsH"><img src="https://image.ibb.co/iqOPCH/29920862_1243227049144155_181589681_n.jpg" alt="29920862_1243227049144155_181589681_n" border="0"></a>
 -->
- ![](https://image.ibb.co/iqOPCH/29920862_1243227049144155_181589681_n.jpg)
+
+![](https://image.ibb.co/iqOPCH/29920862_1243227049144155_181589681_n.jpg)
+
 ## For this project we must study following topics rigorously.
-## Click here you want to watch that awesome videos explaining all hard stuff every clearly 
-:point_right: [link](https://www.youtube.com/user/JagvinderThind/playlists)
-&copy; Team Elixir :smiley: :joy: :imp:
+
+## Click here you want to watch that awesome videos explaining all hard stuff every clearly:point_right:[link](https://www.youtube.com/user/JagvinderThind/playlists)
+
+```rust
+fn main(){
+    print!("Team Elixir");
+}
+```
+
+## :smiley: :joy: :imp:
