@@ -1,6 +1,6 @@
 ## This repo includes necessary documents related to do final year projects.
 
-## **Team Elixir** 
+### **Team Elixir** 
 
 | Symbol No. | Name             | Responsibility |
 | :--------- | :--------------- | :------------- |
@@ -10,5 +10,7 @@
 | `5941`     | Sushil Chapagain |                |
 
 
-open [reference.md](reference.md)
+Go to [reference.md](reference.md) for reference material to help yourself during project.
 <!--## 🔥🔥 `open Reference.md file` 🔥🔥 -->
+
+
