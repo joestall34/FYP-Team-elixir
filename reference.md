@@ -1,10 +1,11 @@
 ### Reference material that will help to write better Final year report :100:
 
-* [Learn how cite according to `IEEE` format. ](http://www.citethisforme.com/guides/ieee/how-to-cite-a-website)
-* [EGRIP protocol Algorithm](https://en.wikipedia.org/wiki/Diffusing_update_algorithm)
-* [Intro to EGRIP](https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/13669-1.html)
+1. [CISCO videos on networking and routing](https://www.youtube.com/user/JagvinderThind/playlists?sort=dd&shelf_id=2&view=50)
+1. [Learn how cite according to `IEEE` format. ](http://www.citethisforme.com/guides/ieee/how-to-cite-a-website)
+1. [EGRIP protocol Algorithm](https://en.wikipedia.org/wiki/Diffusing_update_algorithm)
+1. [Intro to EGRIP](https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/13669-1.html)
 
-## **:warning: we may use EGRIP or OSFP study both :warning:**
+### **:warning: we may use EGRIP or OSFP study both :warning:**
 
 ### Video materials
 
@@ -23,17 +24,24 @@
 <!-- <img src="" width="250"> 
 <a href="https://ibb.co/n51BsH"><img src="https://image.ibb.co/iqOPCH/29920862_1243227049144155_181589681_n.jpg" alt="29920862_1243227049144155_181589681_n" border="0"></a>
 -->
-
-![](https://image.ibb.co/iqOPCH/29920862_1243227049144155_181589681_n.jpg)
-
+### what to study. Here's a list.
+`
+1. IP Assign
+2. VLAN
+3. Telnet
+4. Port security
+5. Enable !!
+6. Console security
+7. Router Security
+8. wire connectio
+9. ACL
+10. Learn to use CISCO packet tracer
+`
+<!--[](https://image.ibb.co/iqOPCH/29920862_1243227049144155_181589681_n.jpg)
+ -->
 ## For this project we must study following topics rigorously.
 
 ## Click here you want to watch that awesome videos explaining all hard stuff every clearly:point_right:[link](https://www.youtube.com/user/JagvinderThind/playlists?sort=dd&shelf_id=2&view=50)
 
-```rust
-fn main(){
-    print!("Team Elixir");
-}
-```
 
-## :smiley: :joy: :imp:
+
