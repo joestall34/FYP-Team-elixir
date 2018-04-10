@@ -25,7 +25,7 @@
 <a href="https://ibb.co/n51BsH"><img src="https://image.ibb.co/iqOPCH/29920862_1243227049144155_181589681_n.jpg" alt="29920862_1243227049144155_181589681_n" border="0"></a>
 -->
 ### what to study. Here's a list.
-`
+```
 1. IP Assign
 2. VLAN
 3. Telnet
@@ -36,12 +36,11 @@
 8. wire connectio
 9. ACL
 10. Learn to use CISCO packet tracer
-`
+```
 <!--[](https://image.ibb.co/iqOPCH/29920862_1243227049144155_181589681_n.jpg)
  -->
-## For this project we must study following topics rigorously.
 
-## Click here you want to watch that awesome videos explaining all hard stuff every clearly:point_right:[link](https://www.youtube.com/user/JagvinderThind/playlists?sort=dd&shelf_id=2&view=50)
+click here!![link](https://www.youtube.com/user/JagvinderThind/playlists?sort=dd&shelf_id=2&view=50)
 
 
 
